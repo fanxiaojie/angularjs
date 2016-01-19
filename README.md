@@ -1,4 +1,4 @@
-# angularjs
+#AngularJS v1.5 官方文档中文版
 
 本文是[樊潇洁](http://weibo.com/5596869470/profile?topnav=1&wvr=6)翻译的最新版本（v1.5版）的**AngularJS**教程。官方英文版请见[AngularJS官方教程](https://docs.angularjs.org/tutorial)和[angularJS官方站](https://angularjs.org)。
 
