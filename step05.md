@@ -4,16 +4,12 @@
 
 * 现在有一个20个电话的列表，从服务器载入。
 
-<div class="alert alert-info">
-
 把工作空间重置到第五步
 
 ```
 git checkout -f step-5
 ```
 刷新你的浏览器或在线检查这一步：[Step 5 Live Demo](http://angular.github.io/angular-phonecat/step-5/app)
-
-</div>
 
 下面列出了第四步和第五步之间的最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-4...step-5)里看到完整的差异。
 
