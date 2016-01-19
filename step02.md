@@ -13,6 +13,7 @@
 ```
 git checkout -f step-2
 ```
+
 刷新你的浏览器或在线检查这一步：[Step 2 Live Demo](http://angular.github.io/angular-phonecat/step-2/app)
 
 </div>
