@@ -4,8 +4,6 @@
 
 * 除了搜索框，应用显示了一个下拉菜单，允许用户 控制列出的手机的排序。
 
-<div class="alert alert-info">
-
 把工作空间重置到第四步
 
 ```
@@ -13,7 +11,6 @@ git checkout -f step-4
 ```
 刷新你的浏览器或在线检查这一步：[Step 4 Live Demo](http://angular.github.io/angular-phonecat/step-4/app)
 
-</div>
 
 下面列出了第四步和第五步之间的最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-3...step-4)里看到完整的差异。
 
