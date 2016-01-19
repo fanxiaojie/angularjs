@@ -6,16 +6,12 @@
 
 要想实现手机详情视力，我们将使用[$http](https://docs.angularjs.org/api/ng/service/$http)以取回我们的数据，然后具体化`phone-detail.html`视图模板。
 
-<div class="alert alert-info">
-
 把工作空间重置到第八步
 
 ```
 git checkout -f step-8
 ```
 刷新你的浏览器或在线检查这一步：[Step 8 Live Demo](http://angular.github.io/angular-phonecat/step-8/app)
-
-</div>
 
 下面列出了第七步和第八步之间最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-7...step-8 "See diff on Github")上看到完整的差异。
 
