@@ -4,16 +4,12 @@
 
 * 现在列表中的手机已经有链接和图像了。
 
-<div class="alert alert-info">
-
 把工作空间重置到第六步
 
 ```
 git checkout -f step-6
 ```
 刷新你的浏览器或在线检查这一步：[Step 6 Live Demo](http://angular.github.io/angular-phonecat/step-6/app)
-
-</div>
 
 下面列出了第五步和第六步之间的最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-5...step-6)里看到完整的差异。
 
