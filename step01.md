@@ -6,15 +6,14 @@
 
 - 网页现在包含了一个列表，带有两款手机的信息。
 
-<div class="alert alert-info">
-
 把工作空间重置到第一步
 
-`git checkout -f step-1`
+```
+git checkout -f step-1
+```
 
 刷新你的浏览器或在线检查这一步：[Step 1 Live Demo](http://angular.github.io/angular-phonecat/step-1/app)
 
-</div>
 
 下面列出了第零步和第一步之间的最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-0...step-1)里看到完整的差异。
 
