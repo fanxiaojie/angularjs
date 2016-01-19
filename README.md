@@ -1,6 +1,6 @@
 # angularjs
 
-本文是[樊潇洁](http://weibo.com/5596869470/profile?topnav=1&wvr=6)翻译的最新Angular教程。官方英文版请见[AngularJS官方教程](https://docs.angularjs.org/tutorial)和[angularJS官方站](https://angularjs.org)。
+本文是[樊潇洁](http://weibo.com/5596869470/profile?topnav=1&wvr=6)翻译的最新**AngularJS**教程。官方英文版请见[AngularJS官方教程](https://docs.angularjs.org/tutorial)和[angularJS官方站](https://angularjs.org)。
 
 本人凭兴趣翻译有用的Web开发教程。如发现翻译得有误，请在新浪微博上发消息给我。
 
