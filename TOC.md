@@ -1,3 +1,4 @@
+- [开始入门](begin.md)
 - [必要准备工作](getstart.md)
 - [引导程序](step01.md)
 - [静态模板](step02.md)
