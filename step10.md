@@ -4,16 +4,12 @@
 
 * 手机详情视图显示了当前手机的一张大图像以及若干张小的缩略图。如果我们可以通过在想要的缩略图中点吉，从而把大图像与任何小缩略图作替换，这会很棒。让我们看一看我们可以如何用Angular做到这。
 
-<div class="alert alert-info">
-
 把工作空间重置到第十步
 
 ```
 git checkout -f step-10
 ```
 刷新你的浏览器或在线检查这一步：[Step 10 Live Demo](http://angular.github.io/angular-phonecat/step-10/app)
-
-</div>
 
 下面列出了第九步和第十步之间最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-9...step-10 "See diff on Github")上看到完整的差异。
 
