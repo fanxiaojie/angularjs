@@ -2,7 +2,7 @@
 
 AngularJS最好的入方法是跟着教程操作，它带领你经历了一个AngularJS网页应用程序的构建。你将建立的这个应用是一个目录，显示了一个安卓设备的列表，让你能够筛选列表，以只察看你感兴趣的设备，然后查看任何设备的详情。
 
-![运行在浏览器上的演示应用](img/tutorial/catalog_screen.png)
+![运行在浏览器上的演示应用](https://docs.angularjs.org/img/tutorial/catalog_screen.png)
 
 跟随着这个教程以看到Angular如何让浏览器变得更聪明——不需要使用原生的扩展或者插件：
 
