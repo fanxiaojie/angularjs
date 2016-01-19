@@ -10,9 +10,8 @@
 
 把工作空间重置到第一步
 
-```
-git checkout -f step-1
-```
+`git checkout -f step-1`
+
 刷新你的浏览器或在线检查这一步：[Step 1 Live Demo](http://angular.github.io/angular-phonecat/step-1/app)
 
 </div>
