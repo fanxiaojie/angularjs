@@ -6,4 +6,6 @@
 
 本人会在百度阅读和极客学院维基上陆续发布更多自己翻译的WEb开发教程。[在百度阅读上收听我](http://yuedu.baidu.com/partner/browse/profile?id=9a6e290e52ea551810a68775)。这就开始学习AngularJS吧！
 
+2016年1月19日
+
 ![](https://angularjs.org/img/AngularJS-large.png)
