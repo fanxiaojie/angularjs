@@ -4,16 +4,12 @@
 
 * 现在应用有了一个搜索框。注意页面上的手机列表的变化取决于用户在搜索框中打了什么字。
 
-<div class="alert alert-info">
-
 把工作空间重置到第三步
 
 ```
 git checkout -f step-3
 ```
 刷新你的浏览器或在线检查这一步：[Step 3 Live Demo](http://angular.github.io/angular-phonecat/step-3/app)
-
-</div>
 
 下面列出了第二步和第三步之间最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-2...step-3)里看到完整的差异。
 
