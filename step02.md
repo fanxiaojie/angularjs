@@ -6,15 +6,15 @@
 
 - 现在下面的数据中动态生成了三款手机的列表：
 
-<div class="alert alert-info">
-
 把工作空间重置到第二步
 
-`git checkout -f step-2`
+```
+git checkout -f step-2
+```
 
 刷新你的浏览器或在线检查这一步：[Step 2 Live Demo](http://angular.github.io/angular-phonecat/step-2/app)
 
-</div>
+
 
 下面列出了第一步和第二步之间的最重要的区别。你可以在[GitHub](https://github.com/angular/angular-phonecat/compare/step-1...step-2)里看到完整的差异。
 
